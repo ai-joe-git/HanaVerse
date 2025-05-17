@@ -54,7 +54,7 @@ Link = https://hanaverse.vercel.app/
 ### Step 1: Clone the repository
 
 ```bash
-git clone https://github.com/Ashish-Patnaik/HanaVerse.git
+git clone https://github.com/ai-joe-git/HanaVerse.git
 cd HanaVerse
 ```
 ### Step 2: Install dependencies
